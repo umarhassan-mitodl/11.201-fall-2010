@@ -4,6 +4,8 @@ description: Lecture presentation on rational comprehensive planning.
 file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/3073e930e24161c58328eed3d42a38f6_MIT11_201F10_ses18_slides.pdf
 file_size: 63394
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

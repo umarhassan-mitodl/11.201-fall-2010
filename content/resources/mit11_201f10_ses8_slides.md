@@ -5,6 +5,8 @@ description: Lecture presentation on regional blocs, regional planning, and lega
 file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/01f43f0dcb82a4e1b030ed14ac453b6d_MIT11_201F10_ses8_slides.pdf
 file_size: 144779
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture presentation on comprehensive planning.
 file: /courses/11-201-gateway-to-the-profession-of-planning-fall-2010/671aa7086892adffc3298bca3dbf4b35_MIT11_201F10_ses16_slides.pdf
 file_size: 71834
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

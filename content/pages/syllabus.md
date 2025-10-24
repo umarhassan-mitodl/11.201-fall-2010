@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks, expectations, requirements, course structure,
   assignments and grades, individual responses, essay assignments, and group responses.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
